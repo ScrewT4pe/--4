@@ -46,7 +46,7 @@ int main()
 	return(0);
 }
 ```
-
+![image](https://user-images.githubusercontent.com/100377672/172939001-9cc79b8f-cbfd-4954-9045-617146f263aa.png)
 
 ### 4. Описание работы программы
 
