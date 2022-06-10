@@ -43,11 +43,11 @@ int main() {
 	return 0;
 }
 ```
-![image](https://user-images.githubusercontent.com/100377672/172988787-bb3194d0-552e-4f42-bb71-6436277e3dd1.png)
-![image](https://user-images.githubusercontent.com/100377672/172988951-1d151438-ae8d-4fc0-8719-5d1a60283c65.png)
-
 
 ### 4. Описание работы программы
+
+![image](https://user-images.githubusercontent.com/100377672/172988787-bb3194d0-552e-4f42-bb71-6436277e3dd1.png)
+![image](https://user-images.githubusercontent.com/100377672/172988951-1d151438-ae8d-4fc0-8719-5d1a60283c65.png)
 
 Программа считает длину вектора, беря компоненты последнего из одного файла, а выводит посчитанный результат в другой файл. Библиотека <fstream> позволяет работать с файлами. Библиотека <cmath> позволяет использовать нетривиальные мат. операции.
 Программа протестирована при помощи компилятора CodeBlocks.
